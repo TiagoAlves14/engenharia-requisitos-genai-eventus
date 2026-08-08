@@ -4,7 +4,7 @@
 
 Foi utilizado o **ChatGPT, da OpenAI**.
 
-O material de entrada principal foi o documento de elicitação apresentado no exercício prático da Unidade III. Repositórios públicos indicados como exemplo foram consultados apenas como referência de organização; toda a análise foi refeita a partir da elicitação da Eventus.
+O material de entrada foi o documento de elicitação apresentado no exercício prático da Unidade III. Toda a análise foi realizada a partir das informações da Eventus fornecidas nessa atividade.
 
 ## Como a IA foi utilizada
 
