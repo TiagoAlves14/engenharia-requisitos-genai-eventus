@@ -4,10 +4,6 @@ Este repositório apresenta a análise e a especificação de requisitos do **Si
 
 O trabalho utiliza a IA como apoio à análise, ao refinamento e à elaboração inicial dos artefatos. Nenhuma sugestão da IA foi tratada automaticamente como decisão do negócio.
 
-## Referências estruturais
-
-Foram consultados, como exemplos de organização, os repositórios públicos [aersouza/engenharia-requisitos-genai](https://github.com/aersouza/engenharia-requisitos-genai), [karinakaori/engenharia-requisitos-genai](https://github.com/karinakaori/engenharia-requisitos-genai) e [calielrfelipin/akcit-eng-requisitos](https://github.com/calielrfelipin/akcit-eng-requisitos). A estrutura final foi adaptada ao enunciado e todo o conteúdo foi analisado novamente a partir da elicitação da Eventus.
-
 ## Resultado da análise
 
 A elicitação descreve necessidades de participantes, organizadores, equipe financeira, palestrantes e equipe de TI. A análise identificou:
